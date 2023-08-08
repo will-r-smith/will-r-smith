@@ -1,4 +1,4 @@
-## @will-r-smith
+## Will Smith  -  @will-r-smith
 
 I'm a Computational Mathematics MSc student at the University of Edinburgh with 1 year (full-time) of Python coding experience. I'm very interested in applied mathematics and its numerical applications involving data. 
 
