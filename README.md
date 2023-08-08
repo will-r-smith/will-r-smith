@@ -2,7 +2,7 @@
 
 I'm a Computational Mathematics MSc student at the University of Edinburgh with 1 year (full-time) of Python coding experience. I'm very interested in applied mathematics and its numerical applications involving data. 
 
-I started to get into coding following my undergraduate dissertation for my mechanical engineering undergradute degree at Loughborough University and have since completed several courses on Codecademy including:
+I started to get into coding following my undergraduate dissertation for my mechanical engineering undergradute degree at Loughborough University and have since completed several courses on **Codecademy** including:
 
 - Data Scientist: Machine Learning [Career Path]
 - Feature Engineering [Skill Path]
