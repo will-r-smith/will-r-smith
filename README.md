@@ -2,17 +2,12 @@
 
 I'm a Computational Mathematics MSc student at the University of Edinburgh with 1 year (full-time) of Python coding experience. I'm very interested in applied mathematics and its numerical applications involving data. 
 
-I started to get into coding following my undergraduate dissertation for my mechanical engineering undergradute degree at Loughborough University and have since completed several courses on **Codecademy** including:
+My university dissertations:
 
-- Data Scientist: Machine Learning [Career Path]
-- Feature Engineering [Skill Path]
-- Build a Machine Learning Pipeline [Course]
-- Learn Git & Github [Course]
-
-I've also completed several large coding projects including:
-
-- Modelling pollution levels in the UK using neural networks [Python].
-- Modelling heat and mass transfer in lyophilisation using finite difference methods [MATLAB].
+- Undergraduate:
+    - Computational heat and mass transfer analysis in Lyophilization (Finite Difference Method) to determine the optimal shelf coolant inlet conditions to ensure intra- and inter-vial heterogeneity [MATLAB].
+- Masters:
+    - Exploiting structured matrices in layer selective dense-to-sparse fine-tuning of large language models [Python].
 
 <!---
 will-r-smith/will-r-smith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
